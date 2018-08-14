@@ -1,0 +1,54 @@
+/*基本样式*/
+.hd_subfield_3{
+    color: #F96F79;
+    border-bottom: 4px solid #E70012;
+}
+.hd_subfield_3>a{
+    color: #F96F79;
+}
+
+/*页面修改样式*/
+.pro_bann{
+    width: 100%;
+}
+.main{
+    width: 1200px;
+    margin: 50px auto;
+}
+.main_h2{
+    font-weight: bold;
+    text-align: center;
+    margin: 100px auto;
+}
+.content_img{
+    width: 400px;
+    float: left;
+}
+.content_img img{
+    width: 400px;
+}
+.content_txt{
+    width: 800px;
+    float: left;
+    padding: 50px;
+}
+.content_txt h4{
+    font-weight: bold;
+    font-size: 22px;
+    margin: 40px 10px;
+}
+.content_txt p{
+    font-size: 17px;
+}
+.seemore{
+    width: 100%;
+    text-align: right;
+    font-size: 22px;
+    cursor: pointer;
+    margin-top: 50px;
+    font-weight: bold;
+}
+.seemore:hover{
+    color: #F96F79;
+}
+

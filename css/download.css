@@ -1,0 +1,42 @@
+/*基本样式*/
+.hd_subfield_4{
+    color: #F96F79;
+    border-bottom: 4px solid #E70012;
+}
+.hd_subfield_4>a{
+    color: #F96F79;
+}
+/*页面修改样式*/
+.main{
+    width: 1200px;
+    margin: 0 auto;
+}
+.download_banner{
+    width: 100%;
+}
+.main_top{
+    text-align: center;
+    margin: 40px 0;
+}
+.main_top p{
+    font-size: 22px;
+    font-weight: bold;
+}
+.main_top img{
+    width: 400px;
+}
+.lit_content{
+    float: left;
+    text-align: center;
+    margin: 40px 40px;
+    width: 220px;
+    cursor: pointer;
+}
+.lit_content img{
+    width: 200px;
+}
+.lit_content p{
+    font-size: 22px;
+    font-weight: bold;
+}
+

@@ -1,0 +1,47 @@
+/*基本样式*/
+.hd_subfield_1{
+    color: #F96F79;
+    border-bottom: 4px solid #E70012;
+}
+.hd_subfield_1>a{
+    color: #F96F79;
+}
+
+/*页面修改样式*/
+.main{
+    width: 1200px;
+    margin: 20px auto ;
+}
+.main_left{
+    width: 300px;
+    text-align: left;
+    padding-top: 40px;
+    float: left;
+}
+.main_right{
+    width: 900px;
+    text-align: center;
+    float: right;
+}
+.main_left .left_h4{
+    font-weight: bold;
+    width: 100%;
+    border-bottom: solid 6px #EEEEEE;
+    padding-bottom: 10px;
+}
+.main_left p{
+    margin: 20px 0;
+    cursor: pointer;
+}
+.main_left p span{
+    font-size: 17px;
+}
+.main_left p span:hover{
+    color: #FB7575;
+}
+.main_left .left_light{
+    color: #FB7575;
+}
+#all_content_img{
+    width: 880px;
+}

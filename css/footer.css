@@ -1,0 +1,52 @@
+.footer{
+    width: 100%;
+}
+.footer h4{
+    font-weight: bold;
+}
+.fot_top{
+    display: flex;
+    justify-content: center;
+    height: 262px;
+    background: #B7B7B7;
+}
+.fot_top>ul{
+    margin: 10px 6%;
+}
+.fot_top>ul>li{
+    font-size: 15px;
+}
+.fot_top ul input{
+    width: 130px;
+    background: #727272;
+    border: none;
+}
+.fot_top ul textarea{
+    background: #727272;
+    border: none;
+}
+.fot_top .fot_texspan{
+    display: inline-block;
+    margin-top: 10px;
+    vertical-align:top;
+}
+.fot_top ul img{
+    height: 30px;
+    width: 180px;
+    margin-left: -32px;
+}
+.fot_top ul button{
+    color: white;
+    background: #727272;
+    border: none;
+}
+.fot_guestbook{
+    margin-top: 6px;
+}
+.fot_bot{
+    text-align: center;
+    height: 80px;
+    line-height: 80px;
+    background: #727272;
+    font-size: 17px;
+}

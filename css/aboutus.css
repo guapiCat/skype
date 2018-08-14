@@ -1,0 +1,54 @@
+/*基本样式*/
+.hd_subfield_5{
+    color: #F96F79;
+    border-bottom: 4px solid #E70012;
+}
+.hd_subfield_5>a{
+    color: #F96F79;
+}
+/*页面修改样式*/
+.aboutus_banner{
+    width: 100%;
+}
+.main{
+    width: 1200px;
+    margin: 0 auto;
+}
+h2{
+    font-size: 36px;
+    color: #0637B8;
+    text-align: center;
+}
+.first_h2{
+    margin-top: -70px;
+    margin-bottom: 70px;
+}
+.fist_p{
+    font-size: 18px;
+}
+.h2_else{
+    margin: 50px auto;
+}
+.devolop_content{
+    display: flex;
+    justify-content: center;
+    border-top: 2px solid #007EB8;
+}
+.devolop_content li{
+    margin: 0 50px;
+}
+.content_year{
+    position: relative;
+    top: -136px;
+    font-size: 40px;
+    left: 65px;
+    color: #017EB8;
+}
+.content_p{
+    margin-top: -35px;
+}
+.last_contp{
+    font-size: 20px;
+    margin: 20px auto;
+}
+
